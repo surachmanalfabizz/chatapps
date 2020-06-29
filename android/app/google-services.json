@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "362971682471",
+    "firebase_url": "https://fcm-tutorial-281407.firebaseio.com",
+    "project_id": "fcm-tutorial-281407",
+    "storage_bucket": "fcm-tutorial-281407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362971682471:android:edd71453bf0dff3f3b6d82",
+        "android_client_info": {
+          "package_name": "com.abizz.chatapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362971682471-9uhk7qnfagef0ciq1hb0u8orufbl85lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjEAPBX1EJ0iCaKZgUfdx0ctQjiwIsyTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362971682471-9uhk7qnfagef0ciq1hb0u8orufbl85lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362971682471:android:0d1d0e8656e2236a3b6d82",
+        "android_client_info": {
+          "package_name": "com.abizz.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362971682471-9uhk7qnfagef0ciq1hb0u8orufbl85lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjEAPBX1EJ0iCaKZgUfdx0ctQjiwIsyTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362971682471-9uhk7qnfagef0ciq1hb0u8orufbl85lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
